@@ -25,8 +25,13 @@ There are two different opportunities to add new rules to your application:
 - use the backend interface to add/manage default rewrite rules
 - use own custom rule components. See further information in folder "custom"
 
+INSTALLATION:
+Copy all files into a new module folder called "rewrites". 
+
 If this module was activated the first time, a new database will be created called "aki_rewrites". If this not happened,
 check your alter rights of your current orm datasource and restart your application.
+
+
 
 The menu point "modules" in backend interface will be extended by an addination menu point called "Rewrites". 
 Within this menu point you can add, delete and edit your default rewrite rules.
