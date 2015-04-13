@@ -1,6 +1,7 @@
 /********************************************************************************
 Rewrites - A module to manage rewrites by the contentbox
 Copyright 2015 by Akitogo Internet And Media Applications GmbH, Frankfurt am Main, Germany
+http://www.akitogo.com
 ********************************************************************************
 Apache License, Version 2.0
 
@@ -33,7 +34,7 @@ check your alter rights of your current orm datasource and restart your applicat
 
 
 
-The menu point "modules" in backend interface will be extended by an addination menu point called "Rewrites". 
+The menu point "modules" in backend interface will be extended by an additional menu point called "Rewrites". 
 Within this menu point you can add, delete and edit your default rewrite rules.
 
 Following settings are available for all default rewrite rules:
